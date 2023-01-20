@@ -7,7 +7,7 @@ ALGORITHM:
 ```
  Step 1: Import math
  Step 2: Using math.sqrt(),solve()
- Step 3: Substitute the values in the distance formula  ![formula](/formula.jpg)
+ Step 3: Substitute the values in the distance formula  d=√((x_2-x_1)²+(y_2-y_1)²)
  Step 4: print distance using format
  Step 5: End the program
  ```
